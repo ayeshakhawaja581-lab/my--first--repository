@@ -1,0 +1,6 @@
+{
+  "name": "ZARMEEN - Wear Your Heritage",
+  "description": "ZARMEEN - Premium Pakistani women's luxury clothing house combining traditional craftsmanship, contemporary silhouettes, unstitched lawn, luxury pret, and festive couture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
